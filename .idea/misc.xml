@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Trabajo/AndroidApps/ScreenRecorderPlusX/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Trabajo/AndroidApps/ScreenRecorderPlusX/app/src/main/res/layout/activity_main.xml" value="0.23143115942028986" />
+        <entry key="..\:/Trabajo/AndroidApps/ScreenRecorderPlusX/app/src/main/res/layout/popup_window.xml" value="0.1" />
       </map>
     </option>
   </component>
